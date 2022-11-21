@@ -72,10 +72,6 @@
 .another_div{
     margin: 8rem;
 }
-.padding{
-    padding-left: 2em;
-}
-
 .image_div{
   float: left;
 }
@@ -111,9 +107,7 @@
     height: 10rem;
     margin: 4px;
 }
-/* .p_tag{
-    display: inline;
-} */
+
 .fa {
     padding: 20px;
     font-size: 30px;
