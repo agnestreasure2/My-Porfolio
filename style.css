@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    margin:  0;
+    padding: 0;
+}
+
+.main_body{
+    border: 2px solid blue;
+    padding: 1rem 2rem;
+    border-radius: 3px;
+    background: pink;
+     
+}
+.container{
+    border: 2px solid lightgray;
+    border-radius: 12px;
+    background: whitesmoke;
+    padding: 2rem;
+}
+
+.nav_container a{
+    position: relative;
+    left: 68%;
+    text-decoration: none;
+}
+.logo_div{
+    float: left;
+}
+
+.logo{
+    width: 1.7rem;
+    height: 1.7rem;
+    padding: 0.2em;
+   
+}
+.profile_image{
+    width: 130px;
+    height: 10rem;
+    padding: 1rem;
+    filter: brightness(1);
+}
+.another_div{
+    margin-left: 15rem;
+    margin-top: 2rem;
+}
+.image_div{
+    float: left;
+}
+.move{
+    clear: left;
+    padding-right: 10rem;
+}
+.first{
+    padding: 2rem;
+}
+.first h3{
+    color: blue;
+}
+.second{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.second h2{
+    padding-bottom: 1rem;
+}
+   
+.profile_image{
+    width: 10rem;
+    height: 10rem;
+}
+
+.another_div{
+    margin: 8rem;
+}
+.padding{
+    padding-left: 2em;
+}
+
+.image_div{
+  float: left;
+}
+
+.move{
+    clear: left;
+    
+}
+.skills{
+    list-style: none;
+    padding: 2rem 5rem 4rem 5rem;
+    line-height: 2rem;
+}
+
+/* About me styles */
+.about_container{
+    border: 1px solid red;
+    width: 25em;
+    margin: 5rem;
+    margin-left: 25em;
+    background: black;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+}
+.about_me{
+    margin: 2rem;
+    width: 300px;
+}
+.image_div2{
+    width: 10rem;
+    height: 10rem;
+    margin: 4px;
+}
+/* .p_tag{
+    display: inline;
+} */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa-twitter {
+    
+    color: skyblue;
+    height: 5px;
+  }
+  .fa-linkedin {
+    color: blue;
+  }
+  
+  
+  .fa-github {
+    background: gray;
+    color: white;
+  }
+  .fa-home {
+    background: gray;
+    color: white;
+  }
