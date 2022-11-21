@@ -72,14 +72,6 @@
 .another_div{
     margin: 8rem;
 }
-.image_div{
-  float: left;
-}
-
-.move{
-    clear: left;
-    
-}
 .skills{
     list-style: none;
     padding: 2rem 5rem 4rem 5rem;
